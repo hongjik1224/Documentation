@@ -1,0 +1,7 @@
+Port Forwarding
+
+Port is a logical connection.
+Port is always associated with an ip address.
+IP address purpose is determined by the port number. Purpose can be web server, ftp server, email server.
+Port number range from 0 - 65535
+Default Gateway is the ip address of the router.

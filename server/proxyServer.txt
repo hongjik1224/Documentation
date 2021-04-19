@@ -1,0 +1,7 @@
+Retrieve data on internet for the user.
+
+Why?
+-Privacy of the user!
+-Speed (caching)
+
+* It can't encrpyt data
